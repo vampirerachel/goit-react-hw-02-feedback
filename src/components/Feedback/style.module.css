@@ -1,0 +1,12 @@
+.title {
+    display: 'flex';
+    justifyContent: 'center';
+    alignItems: 'center';
+    fontSize: 30;
+}
+    .buttons{
+        display: 'flex';
+                justifyContent: 'center';
+                alignItems: 'center';
+                fontSize: 30;
+    }
