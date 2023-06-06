@@ -10,6 +10,7 @@ export default function Feedback({
 }) {
 
   return (
+    
     <div className={styles.buttonRow}>
       <div>
       <button className={styles.buttons} onClick={onClick}>
