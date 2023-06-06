@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Feedback from "./Feedback/index.jsx";
-import SectionTitle from "./SectionTitle/SectionTitle";
+import SectionTitle from "./SectionTitle/sectionTitle.jsx";
 
 export const App = () => {
   const [feedback, setFeedback] = useState({ Good: 0, Bad: 0, Neutral: 0 });
