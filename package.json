@@ -2,7 +2,7 @@
   "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "feedback/https://vampirerachel.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://vampirerachel.github.io/goit-react-hw-02-feedback/",
   "dependencies": {
   "react": "^18.1.0",
   "react-dom": "^18.1.0",
