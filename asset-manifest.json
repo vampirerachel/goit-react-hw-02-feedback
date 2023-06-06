@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vampirerachel/goit-react-hw-02-feedback/static/css/main.713ed698.css",
-    "main.js": "/vampirerachel/goit-react-hw-02-feedback/static/js/main.d63b238d.js",
-    "index.html": "/vampirerachel/goit-react-hw-02-feedback/index.html",
-    "main.713ed698.css.map": "/vampirerachel/goit-react-hw-02-feedback/static/css/main.713ed698.css.map",
-    "main.d63b238d.js.map": "/vampirerachel/goit-react-hw-02-feedback/static/js/main.d63b238d.js.map"
+    "main.css": "/static/css/main.71bd20b4.css",
+    "main.js": "/static/js/main.14c2601d.js",
+    "index.html": "/index.html",
+    "main.71bd20b4.css.map": "/static/css/main.71bd20b4.css.map",
+    "main.14c2601d.js.map": "/static/js/main.14c2601d.js.map"
   },
   "entrypoints": [
-    "static/css/main.713ed698.css",
-    "static/js/main.d63b238d.js"
+    "static/css/main.71bd20b4.css",
+    "static/js/main.14c2601d.js"
   ]
 }
