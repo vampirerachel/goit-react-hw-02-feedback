@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Feedback from "./Feedback/index.jsx";
-import SectionTitle from "./SectionTitle/sectionTitle.jsx";
+import SectionTitle from "./SectionTitle/SectionTitle.jsx";
 
 export const App = () => {
   <SectionTitle>title={"Please Leave Feedback"}
